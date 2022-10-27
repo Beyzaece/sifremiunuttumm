@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\bin\Debug\kullanıcıgiriss.exe.config
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\bin\Debug\kullanıcıgiriss.exe
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\bin\Debug\kullanıcıgiriss.pdb
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.Form1.resources
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.Properties.Resources.resources
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.csproj.GenerateResource.cache
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.exe
+C:\Users\user\source\repos\kullanıcıgiriss\kullanıcıgiriss\obj\Debug\kullanıcıgiriss.pdb
